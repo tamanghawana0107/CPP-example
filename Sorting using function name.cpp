@@ -23,7 +23,6 @@ void sor(R num[])
 		cout<<num[a]<<endl;
 	}
 	
-	
 }
 int main()
 {
