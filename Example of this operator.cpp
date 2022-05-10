@@ -15,8 +15,8 @@ class Student
         }    
        void show()    
         {    
-         cout<<"Student Name "<<roll_no<<endl;
-		 cout<<"Student Roll "<<name<<endl;
+         cout<<"Student Name "<<name<<endl;
+		 cout<<"Student Roll "<<roll_no<<endl;
 		 cout<<"Student Marks "<<marks<<endl;    
         }    
 };  
